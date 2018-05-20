@@ -1,0 +1,125 @@
+///////////////////////////////////////////////////////////////////////// 
+// // 
+// // 
+// @INDEX	// 
+// // 
+// // 
+///////////////////////////////////////////////////////////////////////// 
+
+// FORMS 
+@form_newth =NUEVO POST 
+@form_newcom =COMENTAR 
+@form_comment =COMENTAR 
+@form_post =PUBLICAR 
+
+// PLACEHOLDERS 
+@placeholder_name = Anónimo 
+@placeholder_title = Titulo 
+@placeholder_message = Mensaje 
+@placeholder_username = Usuario 
+@placeholder_password = Contraseña 
+@placeholder_report =¿Por que quieres reportar esto? 
+
+// LINKS 
+@link_comment =[comentar] 
+
+// TEXTS  
+@text_recent =RECIENTE 
+@text_index =ÍNDICE 
+@text_comment = comentario(s) 
+@text_name =Anónimo 
+@text_report =Reportar 
+@text_comments =COMENTARIO Nº  
+@text_thread =POST Nº  
+@text_adminpanel = Acceso Administrativo 
+@text_filesallow =ARCHIVOS PERMITIDOS:  
+@text_done=HECHO! 
+
+// PAGINATION 
+@pagination_next =Siguiente 
+@pagination_prev =Anterior 
+@pagination_itemperpage =Post Por Pagina 
+
+///////////////////////////////////////////////////////////////////////// 
+// // 
+// // 
+// @ADMIN	// 
+// // 
+// // 
+///////////////////////////////////////////////////////////////////////// 
+
+// NAV ITEMS 
+@nav_posts =POSTS 
+@nav_categorys =CATEGORÍAS 
+@nav_advertising =PUBLICIDADES 
+@nav_reports =REPORTES 
+@nav_users =USUARIOS 
+@nav_langs =LANGS 
+@nav_logout =CERRAR SESIÓN 
+
+// TAB TEXTS 
+@tab_pagesetting =CONFIGURACIÓN 
+@tab_name =NOMBRE 
+@tab_title =TITULO 
+@tab_subtitle =SUBTITULO 
+@tab_description =DESCRIPCIÓN 
+@tab_tags =TAGS 
+@tab_theme =TEMA 
+@tab_logo =LOGO 
+@tab_favicon =FAVICON 
+@tab_lang =IDIOMA 
+@tab_comment =COMENTARIOS(s) 
+@tab_post =POST(s) 
+@tab_directory =DIRECTORIO 
+@tab_author =AUTOR 
+@tab_authaddr =DIRECCIÓN IP 
+@tab_category =CATEGORÍA 
+@tab_content =CONTENIDO 
+@tab_options =OPCIONES 
+@tab_extensions =EXTENSIONES 
+@tab_link =LINK 
+@tab_type =TIPO 
+@tab_message =MENSAJE 
+@tab_username =USUARIO 
+@tab_email = CORREO ELECTRÓNICO 
+@tab_lastname =APELLIDO 
+@tab_index =ID 
+@tab_date =FECHA 
+@tab_media =MEDIA 
+@tab_thumb =MINIATURA 
+@tab_comments =COMENTARIOS 
+@tab_folderid =CARPETA 
+@tab_code =CÓDIGO 
+@tab_postid = POST Nº 
+@tab_comid = COMENTARIO Nº  
+@tab_group =GRUPO 
+@tab_joined =INGRESO 
+@tab_report =REPORTAR 
+@tab_changepass =CAMBIAR CONTRASEÑA 
+@tab_ignore = IGNORAR EN OBTENCIÓN RECIENTE 
+
+// FORM TEXTS 
+@form_search =BUSCAR 
+@form_username =USUARIO 
+@form_password =CONTRASEÑA 
+@form_retype =REPETIR CONTRASEÑA 
+@form_group =GRUPO 
+@form_email =CORREO ELECTRÓNICO 
+@form_link =LINK 
+@form_extension =EXTENSIÓN 
+@form_name =NOMBRE 
+@form_lastname =APELLIDO 
+@form_title =TITULO 
+@form_code =CÓDIGO 
+@form_type =TIPO 
+@form_create =CREAR 
+@form_login =ENTRAR 
+@form_report =ENVIAR 
+@form_ignore =IGNORAR 
+
+// TEXTS & LINKS 
+@text_delete =ELIMINAR 
+@text_view =VER 
+@text_goto =IR 
+@text_confirm =¿Estas Seguro Que Deseas Eliminar Esto? 
+@text_welcome =Bienvenido

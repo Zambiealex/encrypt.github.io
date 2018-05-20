@@ -1,0 +1,121 @@
+// 
+// 
+//      @INDEX 
+// 
+// 
+
+// FORMS  
+@form_newth =NEW POST 
+@form_newcom =REPLY 
+@form_comment =COMMENT 
+@form_post =POST 
+
+// PLACEHOLDERS  
+@placeholder_name = Anonymous 
+@placeholder_title = Title 
+@placeholder_message = Message 
+@placeholder_username = Username 
+@placeholder_password = Password 
+@placeholder_report = Why you want to report it? 
+
+// LINKS  
+@link_comment =[Reply] 
+
+// TEXTS   
+@text_recent =RECENT 
+@text_index =CATEGORIES 
+@text_comment =  comment(s) 
+@text_name =Anonymous 
+@text_report =Report 
+@text_comments =COMMENT Nº 
+@text_thread =POST Nº 
+@text_adminpanel = Administrator Panel 
+@text_filesallow =FILES ALLOWED: 
+@text_done =DONE! 
+
+// PAGINATION  
+@pagination_next =Next 
+@pagination_prev =Previus 
+@pagination_itemperpage =Post Per Page 
+
+// 
+// 
+//      @ADMIN 
+// 
+// 
+
+// NAV ITEMS  
+@nav_posts =POSTS 
+@nav_categorys =CATEGORIES 
+@nav_advertising =ADVERTISING 
+@nav_reports =REPORTS 
+@nav_users =USERS 
+@nav_langs =LANGS 
+@nav_logout =LOGOUT 
+
+// TAB TEXTS  
+@tab_pagesetting =SETTINGS 
+@tab_name =NAME 
+@tab_title =TITLE    
+@tab_subtitle =SUBTITLE   
+@tab_description =DESCRIPTION 
+@tab_tags =TAGS  
+@tab_theme =THEME    
+@tab_logo =LOGO  
+@tab_favicon =FAVICON  
+@tab_lang =LANGUAGE 
+@tab_comment =COMMENT(s)  
+@tab_post =POST(s)  
+@tab_directory =DIRECTORY   
+@tab_author =AUTHOR  
+@tab_authaddr =IP  ADDRESS 
+@tab_category =CATEGORY  
+@tab_content =CONTENT 
+@tab_options =OPTIONS  
+@tab_extensions =EXTENSIONS   
+@tab_link =LINK  
+@tab_type =TYPE  
+@tab_message =MESSAGE   
+@tab_username =USERNAME 
+@tab_email =EMAIL 
+@tab_lastname =LASTNAME   
+@tab_index =ID  
+@tab_date =DATE   
+@tab_media =MEDIA  
+@tab_thumb =THUMB    
+@tab_comments =COMMENTS  
+@tab_folderid =FOLDER ID    
+@tab_code =CODE    
+@tab_postid = POST Nº   
+@tab_comid = COMMENT Nº   
+@tab_group =GROUP  
+@tab_joined =JOINED  
+@tab_report =REPORT   
+@tab_changepass =CHANGE PASSWORD  
+@tab_ignore = IGNORE IN RECENT COLLECTION 
+
+// FORM TEXTS  
+@form_search =SEARCH   
+@form_username =USERNAME 
+@form_password =PASSWORD  
+@form_retype =RETYPE PASSWORD  
+@form_group =GROUP 
+@form_email =EMAIL  
+@form_link =LINK  
+@form_extension =EXTENSION    
+@form_name =NAME    
+@form_lastname =LASTNAME   
+@form_title =TITLE 
+@form_code =CÓDE    
+@form_type =TYPE  
+@form_create =CREATE 
+@form_login =LOGIN 
+@form_report =SEND 
+@form_ignore =IGNORE 
+
+// TEXTS & LINKS  
+@text_delete =DELETE 
+@text_view =VIEW
+@text_goto =GO 
+@text_confirm =Are you sure?  
+@text_welcome =Welcome
